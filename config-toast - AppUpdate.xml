@@ -46,7 +46,7 @@
         <Text Name="AttributionText">https://chie-gaming.com/</Text>
         <Text Name="HeaderText">Helpdesk kindly reminds you...</Text>
         <Text Name="TitleText">APP UPDATE AVAILABLE!</Text>
-        <Text Name="BodyText1">FreshLabs Interactive has posted an update for LipSync 3D.</Text>
+        <Text Name="BodyText1">FreshLabs Interactive has posted Update 1.1 for LipSync 3D.</Text>
         <Text Name="BodyText2">Click the button to download and install the update.</Text>
         <Text Name="SnoozeText">Click snooze to be reminded again in:</Text>
         <Text Name="DeadlineText">Your deadline is:</Text>
