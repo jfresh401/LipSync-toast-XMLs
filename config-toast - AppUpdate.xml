@@ -29,9 +29,9 @@
 	<Option Name="ActionButton2" Enabled="False" />	<!-- Enables or disables the action button. -->
 	<Option Name="DismissButton" Enabled="False" />	<!-- Enables or disables the dismiss button. -->
 	<Option Name="SnoozeButton" Enabled="True" /> <!-- Enabling this option will always enable action button and dismiss button -->
-	<Option Name="Scenario" Type="long" />	<!-- Possible values are: reminder | short | long | alarm -->
-	<Option Name="Action1" Value="https://imab.dk" />	<!-- Action taken when using the Action button. Can be any protocol in Windows -->
-	<Option Name="Action2" Value="https://imab.dk" />	<!-- Action taken when using the Action button. Can be any protocol in Windows -->
+	<Option Name="Scenario" Type="short" />	<!-- Possible values are: reminder | short | long | alarm -->
+	<Option Name="Action1" Value="https://chie-gaming.com/dbtech-ecommerce/lipsync-3d.5/releases" />	<!-- Action taken when using the Action button. Can be any protocol in Windows -->
+	<Option Name="Action2" Value="https://chie-gaming.com/" />	<!-- Action taken when using the Action button. Can be any protocol in Windows -->
 	<Text Option="GreetGivenName" Enabled="True" />	<!-- Displays the toast with a personal greeting using the users given name retrieved from AD. Will try retrieval from WMI of no local AD -->
 	<Text Option="MultiLanguageSupport" Enabled="False" /> <!-- Enable support for multiple languages. If set to True, the toast notification will look for the users language culture within the config file -->
 	<en-US> <!-- Default fallback language. This language will be used if MultiLanguageSupport is set to False or if no matching language is found -->
@@ -47,7 +47,7 @@
         <Text Name="HeaderText">Helpdesk kindly reminds you...</Text>
         <Text Name="TitleText">APP UPDATE AVAILABLE!</Text>
         <Text Name="BodyText1">FreshLabs Interactive has posted Update 1.1 for LipSync 3D.</Text>
-        <Text Name="BodyText2">Click the button to download and install the update.</Text>
+        <Text Name="BodyText2">Click below to download and install the update.</Text>
         <Text Name="SnoozeText">Click snooze to be reminded again in:</Text>
         <Text Name="DeadlineText">Your deadline is:</Text>
         <Text Name="GreetMorningText">Good morning</Text>
